@@ -25,6 +25,7 @@ Skilled at problem-solving, with a keen eye for detail and the ability to work i
 ### My New Learnings
 
 Joined Skills Bootcamp(Front End Web Development), funded by Department for Education 
+
 Below are the two projects I have done during the course. It has been an exciting journey to complete them. Here are the links to the projects I have done from scratch. Check them out!
 
 https://ocp-2-ohmyfood-ymcy.vercel.app/
